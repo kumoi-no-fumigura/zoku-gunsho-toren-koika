@@ -1617,6 +1617,10 @@
    "kotobagaki": ""
   }
  ],
+ "translation": {
+  "count": 6,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-toren-koika",
   "work": "登蓮法師恋歌",
@@ -1629,7 +1633,7 @@
   "blocks": 6,
   "chars": 2796,
   "poems": 101,
-  "yaku": 0,
+  "yaku": 6,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T06:49:51+09:00"
